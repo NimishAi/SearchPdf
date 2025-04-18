@@ -77,6 +77,10 @@ Here you can query the pdf located inside directory
 - To stop the Docker containers, press `Ctrl + C` and then run `docker compose down` if needed.
 - Keep your `.env` file secure and do not commit it to version control.
 
+## Code Example
+[![Watch the Loom video](assets/loom-thumbnail.png)](https://www.loom.com/share/3ddb9681adf74979add9005c59be8694?sid=dfe7e42e-998e-4789-a12d-99227b7e7af8)
+
+
 ---
 
 This version improves clarity, fixes typos (e.g., "Injestion.py" → "Ingestion.py"), and standardizes formatting for better readability. Let me know if you want me to add more sections like troubleshooting or project overview!
